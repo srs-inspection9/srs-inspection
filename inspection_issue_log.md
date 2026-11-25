@@ -2,7 +2,6 @@
 
 - **Project:** Team Nexus, Group 9 SRS Inspection
 - **Meeting Date:** 2026, November 24th
-- **Recorder:** Roman
 
 - **Type:**
   - For individual requirements: **Incomplete** (missing parts), **Invalid** (does not follow from stakeholder needs), **Infeasible**, **Ambiguous**, **Unverifiable**, **Untraceable**.
